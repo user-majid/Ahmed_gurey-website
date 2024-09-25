@@ -1,0 +1,55 @@
+// let per = 72;
+
+// if (per > 90) {
+//     console.log("A+");
+// }else if (per > 80){
+//     console.log("B+")
+// }else if (per > 70){
+//     console.log("C+")
+// }else{
+//     console.log("Lose....")
+// }
+
+// const expr = 'mangoes';
+// switch (expr) {
+//     case 'Apple' :
+//         console.log("Apple are $2.5");
+//         break;
+//         case 'mangoes':
+//             console.log("mangoes are $1.5");
+//             break;
+//         case 'water millon':
+//             console.log("water millon are $3.5");
+//             break;
+//             default :
+//             console.log("sorry we are out" + expr);
+// }
+
+//loops
+
+// console.log("1")
+// console.log("2")
+// console.log("3")
+// console.log("4")
+// console.log("5")
+// console.log("6")
+// console.log("7")
+// console.log("8")
+// console.log("9")
+// console.log("10")
+
+//start , end , driver
+//  //for loop
+
+// for (let i = 1; i <= 100; i++){
+//     console.log(i);
+// }
+
+
+// do while
+
+let i = 0;
+do {
+    i += 1;
+    console.log(i)
+} while(i < 5);
